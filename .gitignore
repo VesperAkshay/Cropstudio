@@ -1,0 +1,15 @@
+# Node & Frontend
+node_modules/
+dist/
+.vite-temp/
+
+# Rust / Tauri builds
+src-tauri/target/
+target/
+*.pdb
+
+# Logs & Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
